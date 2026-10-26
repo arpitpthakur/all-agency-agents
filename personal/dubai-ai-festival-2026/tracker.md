@@ -51,12 +51,17 @@
 - Founders: Srinath Kandala, Sunder Jagannathan (CEO & co-founder). Bootstrapped before acquisition.
 - My notes: _(to fill)_
 
-### Lazulite Group — AI & Robotics — G111 (18 m²)
-- What I saw: small personal robots given to individuals; each robot acts on the person's behalf and gives them updates (personal robot agent).
-- My take: great idea.
-- Origin: Chinese (per booth visit). Possibly linked to Shaanxi Zhilaite Embodied Intelligent Technology, Xi'an — name similarity only, UNVERIFIED.
-- Public info: none found online (no website, funding or founders indexed). Get card / LinkedIn / website from the booth.
-- Follow-up questions: own hardware or white-label? What tasks can it actually do today? Price per unit / subscription? Pilots or customers? Funding?
+### Lazulite (Lazulite Technology Services LLC) — AI & Robotics — G111 (18 m²)
+- What I saw: small personal robots given to individuals; each robot acts on the person's behalf and gives them updates (personal robot agent). My take: great idea.
+- Who they are: Dubai experiential-marketing / event-technology agency (est. 2016). Holograms, AR/VR, projection mapping, kinetic & LED installations, robotics for brand activations. Claims 1,500+ projects, 500+ clients.
+- Offices: Dubai (Makateb 4, Office 207, Dubai Production City), London, Riyadh, China (Shenzhen), India — the Shenzhen link is the "Chinese" part.
+- Founders: Irfan Jabbar (Managing Director) and Arjun Yadav (founder, CTO/CEO). ~50–150 staff (estimates vary).
+- AI work: Sanad AI assistant (fully offline system, Abu Dhabi Civil Defence); Mubadala AI avatar assistant; GITEX activations for du and Digital Dubai.
+- Robots they list: temi personal robot, robotic-arm barista, robotic-arm games / glam bot.
+- Investment: NO external funding found (no rounds on Crunchbase / news) — looks bootstrapped, client-revenue funded.
+- Robot brand note: temi (Robotemi) — Israeli-founded personal robot, manufacturing in Shenzhen, HQ New York; raised $21M (2018, led by ex-Alibaba CTO John Wu) + $15M Series B (2020, Joy Capital). Unconfirmed that the robot shown is temi.
+- Contact: enquiries@lazulite.ae · +971 50 173 8408 · lazulite.ae
+- Ask: is the personal-robot product their own (own software on Chinese hardware?) or a reseller deal? Pricing? Raising money?
 - My notes: _(to fill)_
 
 ---
