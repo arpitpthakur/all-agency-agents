@@ -60,3 +60,12 @@
 - Office: Terrapinn Middle East FZ LLC, EIB Building No.01, Office 305-307, Dubai Media City · +971 4 440 2500
 - Useful for: startup stage slots / pitch opportunities, startup exhibitor pods, intros to startups and investors across Terrapinn events
 - My notes: _(to fill)_
+
+---
+## Travel & tourism AI — scan (26 Oct)
+- No exhibitor clearly building travel/tourism AI on the official floor plan (checked all ~230 stands).
+- Travel-adjacent: Loyyal S109 (airline/bank loyalty), Emirates (event partner), RTA / Expo City / Roam / Booked (listed as exhibitors but no stand on the floor plan).
+- Unknown names worth a 30-sec peek: RahaAi S85, WiiZ S86, SkySay AI S98, Otobiz S118, Kakoo Software S127, Aiden Ai G124.
+- Not travel despite the name: Daleel S82 (= Arabic "guide"; it's AI real-estate intelligence on DLD data, $3M pre-seed).
+- Dubai travel-AI players NOT at the show: V Booking ($5M, ~$60M val, AI concierge + TUSD stablecoin), Copilot2trip (Dubai AI trip planner), DubaiAI (govt city concierge), Address Hotels "Nuha", Etihad x BOTIM AI booking.
+- Takeaway: gap at this event -> possible build area.
