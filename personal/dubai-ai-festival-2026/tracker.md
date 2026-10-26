@@ -54,6 +54,7 @@
 ### Lazulite Group — AI & Robotics — G111 (18 m²)
 - What I saw: small personal robots given to individuals; each robot acts on the person's behalf and gives them updates (personal robot agent).
 - My take: great idea.
+- Origin: Chinese (per booth visit). Possibly linked to Shaanxi Zhilaite (智莱特) Embodied Intelligent Technology, Xi'an — name similarity only, UNVERIFIED.
 - Public info: none found online (no website, funding or founders indexed). Get card / LinkedIn / website from the booth.
 - Follow-up questions: own hardware or white-label? What tasks can it actually do today? Price per unit / subscription? Pilots or customers? Funding?
 - My notes: _(to fill)_
