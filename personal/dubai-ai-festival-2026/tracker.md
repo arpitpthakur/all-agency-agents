@@ -85,6 +85,13 @@
 - Not on the floor plan (no stand) — met via sales people.
 - My notes: _(to fill)_
 
+### eatova — S62
+- Contact met: O'Reilly (name as heard — confirm spelling / get card).
+- What (from meeting): building in the food space, end-to-end ("doing everything" in food).
+- Research: no public info found online yet (not to be confused with EatNova, a Chilean food-tech startup).
+- To do: get website / LinkedIn, exact product, stage, funding.
+- My notes: _(to fill)_
+
 ### Robotics-for-schools provider — name TBD
 - What (from meeting): supplies robots to schools (education robotics).
 - To do: get company name / card -> research.
