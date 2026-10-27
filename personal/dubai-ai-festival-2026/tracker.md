@@ -62,6 +62,33 @@
 - Robot brand note: temi (Robotemi) — Israeli-founded personal robot, manufacturing in Shenzhen, HQ New York; raised $21M (2018, led by ex-Alibaba CTO John Wu) + $15M Series B (2020, Joy Capital). Unconfirmed that the robot shown is temi.
 - Contact: enquiries@lazulite.ae · +971 50 173 8408 · lazulite.ae
 - Ask: is the personal-robot product their own (own software on Chinese hardware?) or a reseller deal? Pricing? Raising money?
+- My notes (27 Oct): Lazulite is actively LOOKING FOR PARTNERS to ship and share/deploy their robots -> possible partnership / distribution opportunity for me.
+
+## Met on Day 2 (27 Oct)
+### Macgence — S63
+- What (from meeting): AI data provider.
+- Research: AI training-data company (data collection, annotation, datasets for AI/ML models). Founded 2022, HQ Noida, India. Bootstrapped (no VC found); aggregator estimates ~$8.6M revenue 2025, ~65–78 staff, est. valuation ~$25.7M (estimate, not a priced round).
+- My notes: _(to fill)_
+
+### UVEREST — S64
+- What (from meeting): builds an e-commerce "wall" (confirm exact product).
+- Research: listed as an AI shopping agent for fashion; ~$400K seed (Apr 2026) per VCBacked; registered in Dover, US. Thin public info — unverified.
+- My notes: _(to fill)_
+
+### Luma Brush — S132
+- What (from meeting): AI-powered brush.
+- Research: CEO Julia Michelin dos Santos (pitched Startup Stage, 26 Oct 15:55). No public funding / website info found. Not related to Luma AI (video, $900M Series C).
+- My notes: _(to fill)_
+
+### ESDS — met the sales team
+- Research: ESDS Software Solution Ltd — Indian AI-cloud, data-centre & managed-services provider, HQ Nashik. Listed on Indian exchanges Sept 2026 (IPO price Rs 429). Mar 2026: deal to deploy 8,208 NVIDIA B300 GPUs in Australia. Relevant for GPU / sovereign cloud capacity.
+- Not on the floor plan (no stand) — met via sales people.
+- My notes: _(to fill)_
+
+### Robotics-for-schools provider — name TBD
+- What (from meeting): supplies robots to schools (education robotics).
+- To do: get company name / card -> research.
+- Link: pairs with Lazulite (robot supply + partners wanted) — possible education-robotics play.
 - My notes: _(to fill)_
 
 ---
